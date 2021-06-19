@@ -46,4 +46,7 @@ function draw() {
     
      game.end();
    }
+
+   
+
 }
